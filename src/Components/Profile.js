@@ -48,19 +48,16 @@ function Profile() {
 
         {/* === Social Media Icons === */}
         <div className="social-media">
-          <a href="mailto:diptichirutkar4@gmail.com" target="_blank" rel="noopener noreferrer">
+          <a href="mailto:diptichirutkar1998@gmail.com" target="_blank" rel="noopener noreferrer">
             <i className="bx bxl-gmail"></i>
           </a>
-          <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+          <a href="https://diptichirutkar.github.io/" target="_blank" rel="noopener noreferrer">
             <i className="bx bxl-github"></i>
           </a>
           <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
             <i className="bx bxl-instagram"></i>
           </a>
-          <a href="#" target="_blank" rel="noopener noreferrer">
-            <i className="bx bxl-youtube"></i>
-          </a>
-          <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/diptichirutkar/" target="_blank" rel="noopener noreferrer">
             <i className="bx bxl-linkedin"></i>
           </a>
         </div>
